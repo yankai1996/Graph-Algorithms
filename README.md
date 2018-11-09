@@ -7,9 +7,9 @@ Practice: Graph data structure and algorithms
 
 ### Bellman–Ford algorithm
 
-###Connected Components
+### Connected Components
 
-###Strongly Connected Components
+### Strongly Connected Components
 
 ### Dijkstra's algorithm
 
